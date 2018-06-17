@@ -34,5 +34,5 @@ def adding
 shipping_manifest["jar of molasses"] = 2
 shipping_manifest["gun powder"] = 4
 
-return shipping_manifest["oil paintings"]
+shipping_manifest["oil paintings"]
 end
